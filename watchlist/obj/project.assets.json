@@ -12529,6 +12529,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.AspNetCore.All >= 2.0.0",
+      "Microsoft.EntityFrameworkCore.Sqlite >= 2.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
@@ -12539,11 +12540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Q:\\Example1\\watchlist\\watchlist.csproj",
+      "projectUniqueName": "Q:\\dotnet\\watchlist\\watchlist.csproj",
       "projectName": "watchlist",
-      "projectPath": "Q:\\Example1\\watchlist\\watchlist.csproj",
+      "projectPath": "Q:\\dotnet\\watchlist\\watchlist.csproj",
       "packagesPath": "C:\\Users\\0030481721014\\.nuget\\packages\\",
-      "outputPath": "Q:\\Example1\\watchlist\\obj\\",
+      "outputPath": "Q:\\dotnet\\watchlist\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12577,6 +12578,10 @@
             "autoReferenced": true
           },
           "Microsoft.AspNetCore.All": {
+            "target": "Package",
+            "version": "2.0.0"
+          },
+          "Microsoft.EntityFrameworkCore.Sqlite": {
             "target": "Package",
             "version": "2.0.0"
           }
