@@ -1,0 +1,3 @@
+Q:\dotnet\watchlist\obj\Debug\netcoreapp2.0\watchlist.csproj.CoreCompileInputs.cache
+Q:\dotnet\watchlist\obj\Debug\netcoreapp2.0\watchlist.AssemblyInfoInputs.cache
+Q:\dotnet\watchlist\obj\Debug\netcoreapp2.0\watchlist.AssemblyInfo.cs

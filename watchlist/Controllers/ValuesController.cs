@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Watchlist.Models;
 
-namespace watchlist.Controllers
+namespace Watchlist.Controllers
 {
     [Route("api/[controller]")]
     public class ValuesController : Controller
@@ -20,6 +21,8 @@ namespace watchlist.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
+            var user = new User();
+
             return "value";
         }
 
