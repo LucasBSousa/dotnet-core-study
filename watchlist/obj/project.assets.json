@@ -12540,9 +12540,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Q:\\dotnet\\watchlist\\watchlist.csproj",
-      "projectName": "watchlist",
-      "projectPath": "Q:\\dotnet\\watchlist\\watchlist.csproj",
+      "projectUniqueName": "Q:\\dotnet\\watchlist\\WatchList.csproj",
+      "projectName": "WatchList",
+      "projectPath": "Q:\\dotnet\\watchlist\\WatchList.csproj",
       "packagesPath": "C:\\Users\\0030481721014\\.nuget\\packages\\",
       "outputPath": "Q:\\dotnet\\watchlist\\obj\\",
       "projectStyle": "PackageReference",
